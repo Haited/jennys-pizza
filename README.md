@@ -1,2 +1,1 @@
-# jennys-pizza
-picture of pizza
+# pizza
